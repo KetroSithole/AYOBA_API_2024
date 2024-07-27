@@ -1,0 +1,15 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# folder config files
+[vV]isual[Ss]tudio/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+ipch/
+*.opensdf
+*.sdf
+*.cachefile
+*.log
+*.tlog
+*.lastcodeanalysissucceeded
+*.unsuccessfulbuild
